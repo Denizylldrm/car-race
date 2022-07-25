@@ -1,0 +1,31 @@
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe.config
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.exe
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\bin\Debug\Araba Yarışı.pdb
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba_Yarışı.Form1.resources
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba_Yarışı.Properties.Resources.resources
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.exe
+C:\Users\deniz\source\repos\Araba Yarışı\Araba Yarışı\obj\Debug\Araba Yarışı.pdb
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\bin\Debug\Araba Yarışı.exe.config
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\bin\Debug\Araba Yarışı.exe
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\bin\Debug\Araba Yarışı.pdb
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csprojAssemblyReference.cache
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba_Yarışı.Form1.resources
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba_Yarışı.Properties.Resources.resources
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.GenerateResource.cache
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.exe
+C:\Users\deniz\Masaüstü\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.pdb
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\bin\Debug\Araba Yarışı.exe.config
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\bin\Debug\Araba Yarışı.exe
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\bin\Debug\Araba Yarışı.pdb
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.AssemblyReference.cache
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba_Yarışı.Form1.resources
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba_Yarışı.Properties.Resources.resources
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.GenerateResource.cache
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.exe
+C:\Users\Deniz\Desktop\Okul projeleri\Ödev3\Ödev3(Araba Yarışı)\Araba Yarışı\obj\Debug\Araba Yarışı.pdb
